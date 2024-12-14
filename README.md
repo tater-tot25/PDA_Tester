@@ -1,7 +1,7 @@
 # PDA_Tester
 A python script that can generate Initialize and simulate PDAs, as well as Hueristically test them to see if they accept every string in the alphabet
 
-#Instructions
+# Instructions
 
   * Define a dictionary of transitions, I have some demonstrated in the file, they should be of the form ("startingState", "transitionSymbol", "symbolToPop") : ("endingState", "symbolToPush")
   * Define a list of start function, a string
